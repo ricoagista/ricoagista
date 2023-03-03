@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rico Shandika Jovial Agista</h1>
 <h3 align="center">A student majoring in Computer Network Engineering at SMK Telkom Malang Generation 30.</h3>
 
-- 👨‍💻 All of my projects are available at [https://ricoagista.me/](ricoagista.me)
+- 👨‍💻 All of my projects are available at [https://ricoagista.me/](https://ricoagista.me/)
 
 - 📫 How to reach me **ricoagista@gmail.com**
 

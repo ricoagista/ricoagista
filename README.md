@@ -5,8 +5,6 @@
 
 - 📫 How to reach me **ricoagista@gmail.com**
 
-- ⚡ Fun fact **I really like change.**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/rico_agista" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rico_agista" height="30" width="40" /></a>

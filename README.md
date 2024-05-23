@@ -1,5 +1,3 @@
-[![](https://count.getloli.com/get/@:mininxd?theme=gelbooru-h)](#)
-
 [![snake](https://github.com/rezonated/rezonated/blob/main/github-contribution-grid-snake.svg)](#)
 
 <h1 align="center">Hi 👋, I'm Rico Shandika Jovial Agista</h1>
